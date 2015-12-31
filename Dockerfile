@@ -48,3 +48,4 @@ ENTRYPOINT ["/entrypoint.sh"]
 EXPOSE 2368
 CMD ["npm", "start"]
  
+1
